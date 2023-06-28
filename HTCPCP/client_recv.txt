@@ -1,0 +1,8 @@
+HTCPCP/1.1 400 Bad Request
+Date: Wed, 14 Jun 2023 08:14:12 GMT
+Host: CoffiePot/0.1
+Content-Length: 50
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+
+<html><body><h1>400 Bad Request</h1></body></html>
